@@ -1,4 +1,4 @@
-package com.wmz.wmz.activity;
+package com.wmz.wmz.activity.image;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
